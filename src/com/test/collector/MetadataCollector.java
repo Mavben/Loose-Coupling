@@ -1,5 +1,6 @@
 //rep
 
+// 메타데이터 수집기 클래스
 
 package com.test.collector;
 
